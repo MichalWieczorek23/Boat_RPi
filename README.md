@@ -1,2 +1,2 @@
-# Boat_RPi_BaTh
+# Boat_RPi
 Boat project based on RPi
